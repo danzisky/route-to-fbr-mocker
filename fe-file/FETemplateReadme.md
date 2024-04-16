@@ -11,6 +11,9 @@ Use axios request interceptors to return data from the src/mock_api/routes when 
 
 Example:
 ```javascript
+// import mocker.ts exports
+import { saveMockResponse, getMockResponse } from "@/mock_api/mocker"; // use your path
+
 axios.interceptors.request.use(async (config) => {
    // Check if APP_READ_MOCK_API is true from environment variables
   if (process.env.APP_READ_MOCK_API === "true") {
