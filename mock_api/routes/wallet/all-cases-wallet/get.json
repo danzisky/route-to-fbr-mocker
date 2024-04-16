@@ -1,0 +1,18 @@
+{
+  "_{}": {
+    "result": {
+      "id": 19,
+      "active_cases": 383
+    },
+    "errors": null,
+    "status_code": 200
+  },
+  "default": {
+    "result": {
+      "id": 19,
+      "active_cases": 383
+    },
+    "errors": null,
+    "status_code": 200
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "_{\"page\":\"1\",\"page_size\":\"9\"}": {
+    "status_code": 200,
+    "page_size": 20,
+    "total_objects": 5,
+    "current_page_number": 1,
+    "results": [
+      {
+        "id": 5,
+        "image": "waqf_image_2023-08-2815-46-10.jpeg",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-08-2815-46-10.jpeg",
+        "wallet": {
+          "id": 1405,
+          "target": "1000.00",
+          "balance": "100.00"
+        },
+        "coverage_ratio": "10.00%",
+        "waqf_duration": "-",
+        "created_on": "28-08-2023 03:46 م",
+        "name": "سبحان الله",
+        "description": "test",
+        "display_place": "Waqf_Page",
+        "target": "1000.00",
+        "balance": "100.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          154,
+          77,
+          114,
+          112,
+          74
+        ]
+      },
+      {
+        "id": 2,
+        "image": "waqf_image_2023-05-1916-08-23.jpeg",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-05-1916-08-23.jpeg",
+        "wallet": {
+          "id": 74,
+          "target": "100000.00",
+          "balance": "1797.00"
+        },
+        "coverage_ratio": "1.80%",
+        "waqf_duration": "-",
+        "created_on": "19-05-2023 04:08 م",
+        "name": "وقف عمر",
+        "description": "وقف للاطفال يحوي على مجموعة مستشفيات و يصرف للطفال المحتاجين",
+        "display_place": "Waqf_Page",
+        "target": "100000.00",
+        "balance": "1797.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          42,
+          5,
+          74,
+          22,
+          21,
+          79,
+          77,
+          88,
+          112,
+          114,
+          174,
+          175
+        ]
+      },
+      {
+        "id": 12,
+        "image": "waqf_image_2024-01-3114-12-46.png",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2024-01-3114-12-46.png",
+        "wallet": {
+          "id": 12800,
+          "target": "6788.00",
+          "balance": "100.00"
+        },
+        "coverage_ratio": "1.47%",
+        "waqf_duration": 290,
+        "created_on": "31-01-2024 02:12 م",
+        "name": "test",
+        "description": "Shanza testing",
+        "display_place": "Waqf_Page",
+        "target": "6788.00",
+        "balance": "100.00",
+        "interval": 365,
+        "end_date": "2025-01-30",
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          77,
+          114,
+          74,
+          104
+        ]
+      },
+      {
+        "id": 7,
+        "image": "waqf_image_2023-09-2009-05-02.png",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-09-2009-05-02.png",
+        "wallet": {
+          "id": 1520,
+          "target": "7777.00",
+          "balance": "81.00"
+        },
+        "coverage_ratio": "1.04%",
+        "waqf_duration": "-",
+        "created_on": "20-09-2023 09:05 ص",
+        "name": "test waqf wallet",
+        "description": "test",
+        "display_place": "Waqf_Page",
+        "target": "7777.00",
+        "balance": "81.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          77,
+          114,
+          112,
+          166,
+          104,
+          74
+        ]
+      },
+      {
+        "id": 6,
+        "image": "waqf_image_2023-08-2815-46-14.jpeg",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-08-2815-46-14.jpeg",
+        "wallet": {
+          "id": 1406,
+          "target": "1000.00",
+          "balance": "30.00"
+        },
+        "coverage_ratio": "3.00%",
+        "waqf_duration": "-",
+        "created_on": "28-08-2023 03:46 م",
+        "name": "سبحان الله",
+        "description": "test",
+        "display_place": "Waqf_Page",
+        "target": "1000.00",
+        "balance": "30.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          77,
+          114,
+          112,
+          74
+        ]
+      }
+    ],
+    "specialty_list": [
+      "الأشد حاجة",
+      "الأعصاب",
+      "الأنف و الأذن و الحنجرة",
+      "الجلدية",
+      "الجهاز الهضمي",
+      "العيون",
+      "القلب و الشرايين"
+    ],
+    "errors": null
+  },
+  "default": {
+    "status_code": 200,
+    "page_size": 20,
+    "total_objects": 5,
+    "current_page_number": 1,
+    "results": [
+      {
+        "id": 5,
+        "image": "waqf_image_2023-08-2815-46-10.jpeg",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-08-2815-46-10.jpeg",
+        "wallet": {
+          "id": 1405,
+          "target": "1000.00",
+          "balance": "100.00"
+        },
+        "coverage_ratio": "10.00%",
+        "waqf_duration": "-",
+        "created_on": "28-08-2023 03:46 م",
+        "name": "سبحان الله",
+        "description": "test",
+        "display_place": "Waqf_Page",
+        "target": "1000.00",
+        "balance": "100.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          154,
+          77,
+          114,
+          112,
+          74
+        ]
+      },
+      {
+        "id": 2,
+        "image": "waqf_image_2023-05-1916-08-23.jpeg",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-05-1916-08-23.jpeg",
+        "wallet": {
+          "id": 74,
+          "target": "100000.00",
+          "balance": "1797.00"
+        },
+        "coverage_ratio": "1.80%",
+        "waqf_duration": "-",
+        "created_on": "19-05-2023 04:08 م",
+        "name": "وقف عمر",
+        "description": "وقف للاطفال يحوي على مجموعة مستشفيات و يصرف للطفال المحتاجين",
+        "display_place": "Waqf_Page",
+        "target": "100000.00",
+        "balance": "1797.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          42,
+          5,
+          74,
+          22,
+          21,
+          79,
+          77,
+          88,
+          112,
+          114,
+          174,
+          175
+        ]
+      },
+      {
+        "id": 12,
+        "image": "waqf_image_2024-01-3114-12-46.png",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2024-01-3114-12-46.png",
+        "wallet": {
+          "id": 12800,
+          "target": "6788.00",
+          "balance": "100.00"
+        },
+        "coverage_ratio": "1.47%",
+        "waqf_duration": 290,
+        "created_on": "31-01-2024 02:12 م",
+        "name": "test",
+        "description": "Shanza testing",
+        "display_place": "Waqf_Page",
+        "target": "6788.00",
+        "balance": "100.00",
+        "interval": 365,
+        "end_date": "2025-01-30",
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          77,
+          114,
+          74,
+          104
+        ]
+      },
+      {
+        "id": 7,
+        "image": "waqf_image_2023-09-2009-05-02.png",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-09-2009-05-02.png",
+        "wallet": {
+          "id": 1520,
+          "target": "7777.00",
+          "balance": "81.00"
+        },
+        "coverage_ratio": "1.04%",
+        "waqf_duration": "-",
+        "created_on": "20-09-2023 09:05 ص",
+        "name": "test waqf wallet",
+        "description": "test",
+        "display_place": "Waqf_Page",
+        "target": "7777.00",
+        "balance": "81.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          77,
+          114,
+          112,
+          166,
+          104,
+          74
+        ]
+      },
+      {
+        "id": 6,
+        "image": "waqf_image_2023-08-2815-46-14.jpeg",
+        "image_path": "https://dev.backend.shefa.live/media/waqf_image_2023-08-2815-46-14.jpeg",
+        "wallet": {
+          "id": 1406,
+          "target": "1000.00",
+          "balance": "30.00"
+        },
+        "coverage_ratio": "3.00%",
+        "waqf_duration": "-",
+        "created_on": "28-08-2023 03:46 م",
+        "name": "سبحان الله",
+        "description": "test",
+        "display_place": "Waqf_Page",
+        "target": "1000.00",
+        "balance": "30.00",
+        "interval": null,
+        "end_date": null,
+        "is_completed": false,
+        "is_active": true,
+        "users_read_notification": [
+          77,
+          114,
+          112,
+          74
+        ]
+      }
+    ],
+    "specialty_list": [
+      "الأشد حاجة",
+      "الأعصاب",
+      "الأنف و الأذن و الحنجرة",
+      "الجلدية",
+      "الجهاز الهضمي",
+      "العيون",
+      "القلب و الشرايين"
+    ],
+    "errors": null
+  }
+}

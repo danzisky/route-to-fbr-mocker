@@ -1,0 +1,64 @@
+{
+  "_{}": {
+    "status_code": 200,
+    "result": {
+      "banner": [
+        {
+          "id": 4,
+          "name": "slider-one-home",
+          "image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/slider-one-home_AIWvRkT.jpeg",
+          "url_link": "https://dev.frontend.shefa.live/all-cases-donation"
+        },
+        {
+          "id": 5,
+          "name": "slider-two-home",
+          "image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/slide-two-home_Yar15Ci.jpeg",
+          "url_link": "https://dev.frontend.shefa.live/donate-waqf/7"
+        }
+      ],
+      "specialties": [
+        {
+          "id": 0,
+          "name": "الحالات العاجلة"
+        }
+      ],
+      "number_of_completed_cases": 352,
+      "amount_of_donations": 59790294,
+      "shefaa_ambassador_image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/ambassador-shefaa.png",
+      "major_donors_image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/major-donors.png",
+      "health_initiatives_image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/Artboard__2.png"
+    },
+    "errors": null
+  },
+  "default": {
+    "status_code": 200,
+    "result": {
+      "banner": [
+        {
+          "id": 4,
+          "name": "slider-one-home",
+          "image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/slider-one-home_AIWvRkT.jpeg",
+          "url_link": "https://dev.frontend.shefa.live/all-cases-donation"
+        },
+        {
+          "id": 5,
+          "name": "slider-two-home",
+          "image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/slide-two-home_Yar15Ci.jpeg",
+          "url_link": "https://dev.frontend.shefa.live/donate-waqf/7"
+        }
+      ],
+      "specialties": [
+        {
+          "id": 0,
+          "name": "الحالات العاجلة"
+        }
+      ],
+      "number_of_completed_cases": 352,
+      "amount_of_donations": 59790294,
+      "shefaa_ambassador_image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/ambassador-shefaa.png",
+      "major_donors_image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/major-donors.png",
+      "health_initiatives_image": "https://objectstorage.me-jeddah-1.oraclecloud.com/n/axpew1yvfbbj/b/shefa-staging/o/media/Artboard__2.png"
+    },
+    "errors": null
+  }
+}
