@@ -19,7 +19,56 @@ function getMockPath(route, method = 'GET') {
 }
 app.get('/', (req, res) => {
   res.send(`
-    <h1>Mock Server</h1>
+    <html style="padding: 4rem">
+      <h1>Mock Server</h1>
+      <h2>Send a POST request to /save-mock-data with the following JSON body:</h2>
+      <pre>
+      {
+        "route": "/your-api-endpoint",
+        "method": "GET",
+        "params": {
+          "param1": "value1",
+          "param2": "value2"
+        },
+        "response": {
+          "key": "value"
+        }
+      }
+      </pre>
+
+      <h2>Example:</h2>
+      <pre>
+      {
+        "route": "/api/v1/users",
+        "method": "GET",
+        "params": {
+          "page": 1,
+          "limit": 10
+        },
+        "response": {
+          "users": [
+            { "id": 1, "name": "John Doe" },
+            { "id": 2, "name": "Jane Doe" }
+          ]
+        }
+      }
+      </pre>
+
+      <h2>Response:</h2>
+      <pre>
+      {
+        "success": true,
+        "message": "Mock data saved successfully."
+      }
+      </pre>
+
+      <h2>Make a GET request to the route you saved to get the mock data.</h2>
+
+      <h2>Example:</h2>
+      <pre>
+      GET /api/v1/users?page=1&limit=10
+      </pre>
+    </html>
   `);
 });
 app.post('/save-mock-data', (req, res) => {
